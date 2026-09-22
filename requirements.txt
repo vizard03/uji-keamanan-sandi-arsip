@@ -1,0 +1,11 @@
+ttkthemes
+py7zr
+rarfile
+PyPDF2
+pyminizip
+matplotlib
+reportlab
+Pillow
+qrcode
+psutil
+py-cpuinfo
